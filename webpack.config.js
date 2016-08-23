@@ -51,7 +51,11 @@ const coreBundles = {
     'aurelia-templating',
     'aurelia-templating-binding',
     'aurelia-templating-router',
-    'aurelia-templating-resources'
+    'aurelia-templating-resources',
+    'aurelia-fetch-client',
+    'isomorphic-fetch',
+    'aurelia-i18n',
+    'i18next-xhr-backend'
   ]
 }
 
